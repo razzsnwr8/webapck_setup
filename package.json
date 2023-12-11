@@ -1,0 +1,11 @@
+{
+  "name": "webpack_setup",
+  "version": "1.0.0",
+  "description": "This is the repo which is useful when we setup webpack in our project.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Razz",
+  "license": "ISC"
+}
